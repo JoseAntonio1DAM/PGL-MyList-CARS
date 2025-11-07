@@ -13,7 +13,7 @@ Funciona directamente en el navegador (aunque también tiene una app de escritor
 Lo que hicimos fue diseñar las pantallas de las que estará compuesta nuestra aplicación, mostrando las listas 'llenas'. vacías, y el modal que nos da un formulario ocupando la pantalla para así crear un nuevo elemento. Que en el caso de esta app son los coches cons sus distintas categorías (clasicos, gt, deportivos, superdeportivos, entre otros...)
 
 
-![Muestra de cómo quedaría la app](../assets/appBoceto.PNG)
+![Muestra de cómo quedaría la app](../assets/appBocet.PNG)
 
 
 - *Curiosidad: Existen también distintas herramientas como Excalidraw recomendada por el tutor Adrián(Vista en clase)
