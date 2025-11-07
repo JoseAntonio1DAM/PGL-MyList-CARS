@@ -16,8 +16,8 @@ Lo que hicimos fue diseñar las pantallas de las que estará compuesta nuestra a
 ![Muestra de cómo quedaría la app](../assets/appBoceto.PNG)
 
 
+- *Curiosidad: Existen también distintas herramientas como Excalidraw recomendada por el tutor Adrián(Vista en clase)
+![](../assets/Excalidra.png)
 
-![*Curiosidad: Existen también distintas herramientas como Excalidraw recomendada por el tutor Adrián(Vista en clase)](../assets/Excalidra.png)
-
-
+- Volver al readme.md
 ![Volver al README.md](../README.md)
